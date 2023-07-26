@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.news_area{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 150px 100px 0;
+  row-gap: 30px;
+}
